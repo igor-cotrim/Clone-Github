@@ -71,8 +71,6 @@ The following tools were used in the construction of the project:
 - [ ] Fetch data from GitHub V4 API (GraphQL instead of REST).
 - [ ] Create new routes with React Router (e.g. Github Feed, complete Repo page)
 
-
-
 ## License 📝
 
 This project is under license [MIT](https://choosealicense.com/licenses/mit/)
