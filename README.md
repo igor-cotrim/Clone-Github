@@ -51,7 +51,7 @@ Before you begin, you will need to have the following tools installed on your ma
 
 The following tools were used in the construction of the project:
 
-#### NetflixClone ([React](https://pt-br.reactjs.org/) + [Typescript](https://www.typescriptlang.org))
+#### GithubClone ([React](https://pt-br.reactjs.org/) + [Typescript](https://www.typescriptlang.org))
 
 - [React Dom](https://pt-br.reactjs.org/docs/react-dom.html)
 - [date-fns](https://date-fns.org)
