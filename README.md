@@ -8,9 +8,9 @@
 
 <p align="center">
  <a href="#about-">About</a> •
- <a href="#how-to-run">How to run</a> • 
+ <a href="#how-to-run-">How to run</a> • 
  <a href="#technology-">Technology</a> • 
- <a href="#ideas-to-implement">Ideas to implement</a> •
+ <a href="#ideas-to-implement-">Ideas to implement</a> •
  <a href="#license-">License</a> • 
  <a href="#author-">Author</a>
 </p>
@@ -25,7 +25,7 @@ To train React's knowledge, I made his github profile, interacting with the gith
 
 ---
 
-## How to run 
+## How to run 🚀
 
 ```sh
 # Clone this repository
@@ -65,7 +65,7 @@ The following tools were used in the construction of the project:
 
 ---
 
-## Ideas to implement
+## Ideas to implement 📌
 
 - [ ] Use SWR as cache invalidation strategy
 - [ ] Fetch data from GitHub V4 API (GraphQL instead of REST).
