@@ -15,6 +15,12 @@
  <a href="#author-">Author</a>
 </p>
 
+<p align="center">
+    <a href="README.md">English</a>
+    ·
+    <a href="README-pt.md">Portuguese</a>
+ </p>
+
 ## About 💻
 
 Github clone!
